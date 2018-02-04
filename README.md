@@ -4,5 +4,5 @@ This repository contains all the experimental results obtained during the evalua
     "Evaluation": includes the experimental results obtained.
     "Dataset": contains the benchmarks used for the various experimental evaluations.
     "Tools": contains the versions of the tools we used (SAKey, LIMES, SILK)
+	"Application" : contains the last version of KeyRanker. 
 
-A version of KeyRanker with the user manual will soon be added to the repository.
